@@ -1,4 +1,4 @@
-mport sys
+import sys
 from time import sleep
 import colorama
 from colorama import Fore
